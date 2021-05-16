@@ -1,4 +1,4 @@
-Woocommerce Snippets - Adding Shipping Info on Single Product Page 
+//Woocommerce Snippets - Adding Shipping Info on Single Product Page 
 
 // Display Fields
 add_action( 'woocommerce_product_options_general_product_data', 'woo_add_custom_fields' );
